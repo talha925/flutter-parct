@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:myapp/screen/Constant_widget/my_theme.dart';
 
-import 'screen/login_screen/loginpage.dart';
+import 'screen/Welcome_page/welcome_page.dart';
 
 void main() {
   runApp(const MyApp());
